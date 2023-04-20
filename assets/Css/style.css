@@ -1,0 +1,64 @@
+header{
+    font-family: 'Rubik', sans-serif;
+}
+
+.container_header{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.navbarNav {
+    background-color: transparent;
+    color:white;
+    display: inline;
+  }
+
+.seccion1{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+}
+
+.card {
+    background-color: black;
+    color: white;
+    text-align: justify;
+  }
+
+  .card1 { 
+    background-color:white;;  
+    margin-top: 1.5em;
+    }
+
+  .card2{
+    background-color: #16a2b7;  
+    color:white;
+    text-align:left;
+    height:17em;
+    padding: 0.5em;
+    
+  }
+  
+  .card-imagen {
+    height:140px;
+  }
+
+  .seccion2{
+    text-align: left;
+    margin-left: 145px;
+    margin-right: 145px;
+  }
+
+  .seccion3{
+    background-color: #16a2b7;
+    font-family: 'Rubik', sans-serif;
+  }
+
+  .botones{
+    width:50px;
+    color:#16a2b7;
+    margin:10px;
+    padding:10px;
+    background-color: white;
+  }
